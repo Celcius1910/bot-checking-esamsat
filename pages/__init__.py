@@ -1,3 +1,3 @@
-from pages.home_page import HomePage
+from pages.home_page import HomePage_PKB_JKT
 
-__all__ = ["HomePage"]
+__all__ = ["HomePage_PKB_JKT"]

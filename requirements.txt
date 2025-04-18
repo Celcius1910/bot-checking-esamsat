@@ -11,3 +11,8 @@ python-dotenv
 faker
 allure-pytest 
 pyautogui
+playwright-stealth
+openpyxl
+pyautogui
+pandas
+setuptools
