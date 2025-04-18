@@ -1,0 +1,13 @@
+pytest
+pytest-playwright
+playwright
+pytest-html 
+pytest-xdist  
+pytest-html 
+pytest-xdist 
+requests
+jsonschema
+python-dotenv
+faker
+allure-pytest 
+pyautogui
